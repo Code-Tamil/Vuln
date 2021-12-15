@@ -1,5 +1,7 @@
 JH573hgbf -- password of the user
 
+openvpn pass ezc7a3f
+
 pacman -Syu apache2 openssh-server vsftpd openvpn
 service apache2 start
 sudo systemctl enable ssh
